@@ -1,6 +1,6 @@
-# code_challange
+# Coding challange startup files
 
-A new Flutter project.
+A new Flutter project with startup files for my coding challange!
 
 ## Getting Started
 
